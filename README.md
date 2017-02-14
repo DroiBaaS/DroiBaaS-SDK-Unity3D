@@ -1,4 +1,5 @@
 # DroiBaaS-SDK-Unity3D
 
-- core/ 
+- core
+
 Core and dependency dll.
